@@ -1,0 +1,34 @@
+C:\Users\Алексей\Desktop\lab4 iteration\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\Алексей\Desktop\lab4 iteration\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Алексей\Desktop\lab4 iteration\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Алексей\Desktop\lab4 iteration\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Алексей\Desktop\lab4 iteration\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Алексей\Desktop\lab4 iteration\WindowsFormsApplication1\obj\Release\Integrate Rectangles.csproj.GenerateResource.Cache
+C:\Users\Алексей\Desktop\lab4 iteration\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Алексей\Desktop\lab4 iteration\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\Алексей\Desktop\lab4 iteration\WindowsFormsApplication1\obj\Release\Integrate Rectangles.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\lab4 iteration — копия\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\Алексей\Desktop\lab4 iteration — копия\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Алексей\Desktop\lab4 iteration — копия\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+D:\lab4 iterate\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+D:\lab4 iterate\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+D:\lab4 iterate\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+D:\lab4 iterate\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+D:\lab4 iterate\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+D:\lab4 iterate\WindowsFormsApplication1\obj\Release\Integrate Rectangles.csprojResolveAssemblyReference.cache
+D:\lab4 iterate\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\lab4 iterate\WindowsFormsApplication1\obj\Release\Integrate Rectangles.csproj.GenerateResource.Cache
+D:\lab4 iterate\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.MainWindow.resources
+C:\Users\Phant\Desktop\321\lab4 iterate\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\Phant\Desktop\321\lab4 iterate\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Phant\Desktop\321\lab4 iterate\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\Phant\Desktop\321\lab4 iterate\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Phant\Desktop\321\lab4 iterate\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Phant\Desktop\321\lab4 iterate\WindowsFormsApplication1\obj\Release\Integrate Rectangles.csprojResolveAssemblyReference.cache
+C:\Users\Phant\Desktop\321\lab4 iterate\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.MainWindow.resources
+C:\Users\Phant\Desktop\321\lab4 iterate\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Phant\Desktop\321\lab4 iterate\WindowsFormsApplication1\obj\Release\Integrate Rectangles.csproj.GenerateResource.Cache
+C:\Users\ander\Desktop\lab4 iterate\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\ander\Desktop\lab4 iterate\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\ander\Desktop\lab4 iterate\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\ander\Desktop\lab4 iterate\WindowsFormsApplication1\obj\Release\Integrate Rectangles.csprojResolveAssemblyReference.cache

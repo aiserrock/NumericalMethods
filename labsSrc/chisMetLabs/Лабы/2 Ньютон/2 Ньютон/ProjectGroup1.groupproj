@@ -1,0 +1,36 @@
+﻿	<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+		<PropertyGroup>
+			<ProjectGuid>{77425A7B-085F-47B9-BA66-EFE73FC74F27}</ProjectGuid>
+		</PropertyGroup>
+		<ItemGroup>
+			<Projects Include="Bessel.cbproj">
+				<Dependencies/>
+			</Projects>
+		</ItemGroup>
+		<ProjectExtensions>
+			<Borland.Personality>Default.Personality.12</Borland.Personality>
+			<Borland.ProjectType/>
+			<BorlandProject>
+				<Default.Personality/>
+			</BorlandProject>
+		</ProjectExtensions>
+		<Target Name="Bessel">
+			<MSBuild Projects="Bessel.cbproj"/>
+		</Target>
+		<Target Name="Bessel:Clean">
+			<MSBuild Targets="Clean" Projects="Bessel.cbproj"/>
+		</Target>
+		<Target Name="Bessel:Make">
+			<MSBuild Targets="Make" Projects="Bessel.cbproj"/>
+		</Target>
+		<Target Name="Build">
+			<CallTarget Targets="Bessel"/>
+		</Target>
+		<Target Name="Clean">
+			<CallTarget Targets="Bessel:Clean"/>
+		</Target>
+		<Target Name="Make">
+			<CallTarget Targets="Bessel:Make"/>
+		</Target>
+		<Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+	</Project>

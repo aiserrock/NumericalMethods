@@ -1,0 +1,134 @@
+D:\Юра\Рабочая\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Юра\Рабочая\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Юра\Рабочая\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Юра\Рабочая\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Юра\Рабочая\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Юра\Рабочая\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Resource1.resources
+D:\Юра\Рабочая\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Юра\Рабочая\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Юра\Рабочая\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Юра\Рабочая\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+C:\Users\Юрий\Desktop\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Юрий\Desktop\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Юрий\Desktop\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Юрий\Desktop\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Юрий\Desktop\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+C:\Users\Юрий\Desktop\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\Desktop\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Юрий\Desktop\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Юрий\Desktop\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Resource1.resources
+C:\Users\Юрий\Desktop\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Юра\Рабочая\лабы\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Юра\Рабочая\лабы\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Юра\Рабочая\лабы\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Юра\Рабочая\лабы\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Юра\Рабочая\лабы\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+D:\Юра\Рабочая\лабы\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Юра\Рабочая\лабы\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Юра\Рабочая\лабы\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Юра\Рабочая\лабы\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Resource1.resources
+D:\Юра\Рабочая\лабы\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Юра\Рабочая\лабы\Lab2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Юра\Рабочая\лабы\Lab2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Юра\Рабочая\лабы\Lab2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Юра\Рабочая\лабы\Lab2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Юра\Рабочая\лабы\Lab2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+D:\Юра\Рабочая\лабы\Lab2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Юра\Рабочая\лабы\Lab2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Юра\Рабочая\лабы\Lab2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Юра\Рабочая\лабы\Lab2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Resource1.resources
+D:\Юра\Рабочая\лабы\Lab2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Юра\Рабочая\лабы\Lab2_2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Юра\Рабочая\лабы\Lab2_2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Юра\Рабочая\лабы\Lab2_2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Юра\Рабочая\лабы\Lab2_2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Юра\Рабочая\лабы\Lab2_2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+D:\Юра\Рабочая\лабы\Lab2_2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Юра\Рабочая\лабы\Lab2_2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Юра\Рабочая\лабы\Lab2_2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Юра\Рабочая\лабы\Lab2_2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Resource1.resources
+D:\Юра\Рабочая\лабы\Lab2_2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Юра\Рабочая\лабы\Lab2_2 - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Юра\Рабочая\лабы\Lab2_2 - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Юра\Рабочая\лабы\Lab2_2 - копия\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Юра\Рабочая\лабы\Lab2_2 - копия\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Юра\Рабочая\лабы\Lab2_2 - копия\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+D:\Юра\Рабочая\лабы\Lab2_2 - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Юра\Рабочая\лабы\Lab2_2 - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Юра\Рабочая\лабы\Lab2_2 - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Юра\Рабочая\лабы\Lab2_2 - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Resource1.resources
+D:\Юра\Рабочая\лабы\Lab2_2 - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Юра\Рабочая\лабы\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Юра\Рабочая\лабы\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Юра\Рабочая\лабы\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Юра\Рабочая\лабы\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Юра\Рабочая\лабы\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+D:\Юра\Рабочая\лабы\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Юра\Рабочая\лабы\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Юра\Рабочая\лабы\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Юра\Рабочая\лабы\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Resource1.resources
+D:\Юра\Рабочая\лабы\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+F:\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Resource1.resources
+F:\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Юрий\Desktop\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Юрий\Desktop\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Юрий\Desktop\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Юрий\Desktop\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Юрий\Desktop\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+C:\Users\Юрий\Desktop\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\Desktop\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Юрий\Desktop\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Юрий\Desktop\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Resource1.resources
+C:\Users\Юрий\Desktop\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Юра\Рабочая\учёба\программирование\c#\лабы\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Юра\Рабочая\учёба\программирование\c#\лабы\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Юра\Рабочая\учёба\программирование\c#\лабы\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Юра\Рабочая\учёба\программирование\c#\лабы\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Юра\Рабочая\учёба\программирование\c#\лабы\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+D:\Юра\Рабочая\учёба\программирование\c#\лабы\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Юра\Рабочая\учёба\программирование\c#\лабы\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Юра\Рабочая\учёба\программирование\c#\лабы\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Юра\Рабочая\учёба\программирование\c#\лабы\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Resource1.resources
+D:\Юра\Рабочая\учёба\программирование\c#\лабы\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Documents\Парфенов\Lab_3\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Documents\Парфенов\Lab_3\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Documents\Парфенов\Lab_3\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Documents\Парфенов\Lab_3\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Documents\Парфенов\Lab_3\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Documents\Парфенов\Lab_3\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Resource1.resources
+D:\Documents\Парфенов\Lab_3\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Documents\Парфенов\Lab_3\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Documents\Парфенов\Lab_3\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Documents\Парфенов\Lab_3\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+E:\Lab_3\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Lab_3\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Lab_3\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Lab_3\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Lab_3\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+E:\Lab_3\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Lab_3\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Lab_3\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Lab_3\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Resource1.resources
+E:\Lab_3\Lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\числительные методы\Lab4\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\числительные методы\Lab4\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Lenovo\Универ\4 курс\Численные методы\Lab4\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Lenovo\Универ\4 курс\Численные методы\Lab4\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\6 семестр\Парфенов\ЧМ\Лабораторные (4)\Lab4\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\6 семестр\Парфенов\ЧМ\Лабораторные (4)\Lab4\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\6 семестр\Парфенов\ЧМ\Лабораторные (4)\Lab4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\6 семестр\Парфенов\ЧМ\Лабораторные (4)\Lab4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\6 семестр\Парфенов\ЧМ\Лабораторные (4)\Lab4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+D:\6 семестр\Парфенов\ЧМ\Лабораторные (4)\Lab4\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\6 семестр\Парфенов\ЧМ\Лабораторные (4)\Lab4\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\6 семестр\Парфенов\ЧМ\Лабораторные (4)\Lab4\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\6 семестр\Парфенов\ЧМ\Лабораторные (4)\Lab4\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Resource1.resources
+D:\6 семестр\Парфенов\ЧМ\Лабораторные (4)\Lab4\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

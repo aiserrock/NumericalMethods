@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.chart.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" fx:id="pane" prefHeight="600.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="functioninterpolation.FXMLController">
+   <children>
+      <LineChart fx:id="numberLineChart" alternativeRowFillVisible="true" animated="false" cache="true" cacheHint="SPEED" createSymbols="false" depthTest="DISABLE" layoutX="230.0" layoutY="10.0" legendVisible="false" maxHeight="650.0" maxWidth="1100.0" prefHeight="560.0" prefWidth="760.0" AnchorPane.bottomAnchor="30.0" AnchorPane.leftAnchor="230.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="10.0">
+        <xAxis>
+            
+          <NumberAxis autoRanging="false" lowerBound="-10.0" minorTickLength="3.0" prefHeight="0.0" prefWidth="740.0" tickUnit="1.0" upperBound="10.0" fx:id="xAxis">
+               <tickLabelFont>
+                  <Font size="10.0" />
+               </tickLabelFont></NumberAxis>
+        </xAxis>
+        <yAxis>
+            
+          <NumberAxis fx:id="yAxis" autoRanging="false" lowerBound="-10.0" prefHeight="532.0" prefWidth="0.0" tickUnit="1" upperBound="10.0" />
+        </yAxis>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+         <padding>
+            <Insets bottom="-10.0" left="-10.0" right="-10.0" top="-10.0" />
+         </padding>
+      </LineChart>
+      <Label layoutX="44.0" layoutY="23.0" text="α">
+         <font>
+            <Font size="18.0" />
+         </font></Label>
+      <TextField fx:id="textFieldAlpha" layoutX="64.0" layoutY="24.0" prefHeight="25.0" prefWidth="45.0" text="1" />
+      <Label layoutX="45.0" layoutY="60.0" text="β">
+         <font>
+            <Font size="18.0" />
+         </font></Label>
+      <TextField fx:id="textFieldBeta" layoutX="64.0" layoutY="61.0" prefHeight="25.0" prefWidth="45.0" text="1" />
+      <Label layoutX="45.0" layoutY="99.0" text="γ">
+         <font>
+            <Font size="18.0" />
+         </font></Label>
+      <TextField fx:id="textFieldGamma" layoutX="63.0" layoutY="100.0" prefHeight="25.0" prefWidth="45.0" text="1" />
+      <Label layoutX="122.0" layoutY="23.0" text="δ">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <TextField fx:id="textFieldDelta" layoutX="140.0" layoutY="25.0" prefHeight="25.0" prefWidth="45.0" text="1" />
+      <Label layoutX="120.0" layoutY="61.0" text="φ">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <TextField fx:id="textFieldFi" layoutX="140.0" layoutY="61.0" prefHeight="25.0" prefWidth="45.0" text="1" />
+      <Label layoutX="20.0" layoutY="148.0" text="A">
+         <font>
+            <Font size="18.0" />
+         </font></Label>
+      <TextField fx:id="textFieldA" layoutX="50.0" layoutY="149.0" prefHeight="25.0" prefWidth="45.0" text="-1" />
+      <Label layoutX="114.0" layoutY="148.0" text="B">
+         <font>
+            <Font size="18.0" />
+         </font></Label>
+      <TextField fx:id="textFieldB" layoutX="140.0" layoutY="149.0" prefHeight="25.0" prefWidth="45.0" text="1" />
+      <Label layoutX="21.0" layoutY="199.0" text="C">
+         <font>
+            <Font size="18.0" />
+         </font></Label>
+      <TextField fx:id="textFieldC" layoutX="50.0" layoutY="200.0" prefHeight="25.0" prefWidth="45.0" text="-1" />
+      <Label layoutX="112.0" layoutY="199.0" text="D">
+         <font>
+            <Font size="18.0" />
+         </font></Label>
+      <TextField fx:id="textFieldD" layoutX="140.0" layoutY="200.0" prefHeight="25.0" prefWidth="45.0" text="1" />
+      <Label layoutX="21.0" layoutY="255.0" text="n">
+         <font>
+            <Font size="18.0" />
+         </font></Label>
+      <TextField fx:id="textFieldN" layoutX="50.0" layoutY="256.0" prefHeight="25.0" prefWidth="68.0" text="500" />
+      <Label layoutX="14.0" layoutY="311.0" text="Точность">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <ChoiceBox fx:id="choiceBoxTau" layoutX="99.0" layoutY="309.0" prefHeight="25.0" prefWidth="103.0" />
+      <Button layoutX="42.0" layoutY="457.0" mnemonicParsing="false" onAction="#handleButtonAction" text="Применить/Очистить" />
+      <Label layoutX="41.0" layoutY="488.0" prefHeight="27.0" prefWidth="199.0" text="Кузнецов Сергей ">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="70.0" layoutY="530.0" text="ИВТ-42БО">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="labelError" layoutX="17.0" layoutY="404.0" prefHeight="38.0" prefWidth="184.0" textFill="RED">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

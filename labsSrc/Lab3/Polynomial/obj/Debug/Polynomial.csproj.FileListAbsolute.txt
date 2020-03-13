@@ -1,0 +1,44 @@
+D:\Пробные проекты Visual Studio\Polynomial\Polynomial\bin\Debug\Polynomial.exe.config
+D:\Пробные проекты Visual Studio\Polynomial\Polynomial\bin\Debug\Polynomial.exe
+D:\Пробные проекты Visual Studio\Polynomial\Polynomial\bin\Debug\Polynomial.pdb
+D:\Пробные проекты Visual Studio\Polynomial\Polynomial\bin\Debug\ZedGraph.dll
+D:\Пробные проекты Visual Studio\Polynomial\Polynomial\obj\Debug\Polynomial.Properties.Resources.resources
+D:\Пробные проекты Visual Studio\Polynomial\Polynomial\obj\Debug\Polynomial.csproj.GenerateResource.Cache
+D:\Пробные проекты Visual Studio\Polynomial\Polynomial\obj\Debug\Polynomial.exe
+D:\Пробные проекты Visual Studio\Polynomial\Polynomial\obj\Debug\Polynomial.pdb
+D:\Пробные проекты Visual Studio\Polynomial\Polynomial\obj\Debug\Polynomial.csprojResolveAssemblyReference.cache
+D:\Пробные проекты Visual Studio\Polynomial\Polynomial\obj\Debug\Polynomial.Form1.resources
+C:\Users\devnikor\Desktop\Polynomial\Polynomial\bin\Debug\Polynomial.exe.config
+C:\Users\devnikor\Desktop\Polynomial\Polynomial\obj\Debug\Polynomial.exe
+C:\Users\devnikor\Desktop\Polynomial\Polynomial\obj\Debug\Polynomial.pdb
+D:\Lab3\Polynomial\bin\Debug\Polynomial.exe.config
+D:\Lab3\Polynomial\obj\Debug\Polynomial.exe
+D:\Lab3\Polynomial\obj\Debug\Polynomial.pdb
+D:\Lab3\Polynomial\bin\Debug\Polynomial.exe
+D:\Lab3\Polynomial\bin\Debug\Polynomial.pdb
+D:\Lab3\Polynomial\obj\Debug\Polynomial.csprojResolveAssemblyReference.cache
+D:\Lab3\Polynomial\obj\Debug\Polynomial.Properties.Resources.resources
+D:\Lab3\Polynomial\obj\Debug\Polynomial.csproj.GenerateResource.Cache
+D:\Lab3\Polynomial\obj\Debug\Polynomial.MainWindow.resources
+C:\Users\Егор\Desktop\Lab3\Polynomial\bin\Debug\Polynomial.exe.config
+C:\Users\Егор\Desktop\Lab3\Polynomial\obj\Debug\Polynomial.exe
+C:\Users\Егор\Desktop\Lab3\Polynomial\obj\Debug\Polynomial.pdb
+C:\Users\Егор\Desktop\Lab3\Polynomial\bin\Debug\Polynomial.exe
+C:\Users\Егор\Desktop\Lab3\Polynomial\bin\Debug\Polynomial.pdb
+C:\Users\Егор\Desktop\Lab3\Polynomial\obj\Debug\Polynomial.csprojResolveAssemblyReference.cache
+C:\Users\Егор\Desktop\Lab3\Polynomial\obj\Debug\Polynomial.MainWindow.resources
+C:\Users\Егор\Desktop\Lab3\Polynomial\obj\Debug\Polynomial.Properties.Resources.resources
+C:\Users\Егор\Desktop\Lab3\Polynomial\obj\Debug\Polynomial.csproj.GenerateResource.Cache
+C:\Users\Phant\Desktop\Lab3\Polynomial\bin\Debug\Polynomial.exe.config
+C:\Users\Phant\Desktop\Lab3\Polynomial\obj\Debug\Polynomial.exe
+C:\Users\Phant\Desktop\Lab3\Polynomial\obj\Debug\Polynomial.pdb
+C:\Users\Phant\Desktop\Lab3\Polynomial\bin\Debug\Polynomial.exe
+C:\Users\Phant\Desktop\Lab3\Polynomial\bin\Debug\Polynomial.pdb
+C:\Users\Phant\Desktop\Lab3\Polynomial\obj\Debug\Polynomial.csprojResolveAssemblyReference.cache
+C:\Users\Phant\Desktop\Lab3\Polynomial\obj\Debug\Polynomial.MainWindow.resources
+C:\Users\Phant\Desktop\Lab3\Polynomial\obj\Debug\Polynomial.Properties.Resources.resources
+C:\Users\Phant\Desktop\Lab3\Polynomial\obj\Debug\Polynomial.csproj.GenerateResource.Cache
+C:\Users\ander\Desktop\Lab3\Polynomial\bin\Debug\Polynomial.exe.config
+C:\Users\ander\Desktop\Lab3\Polynomial\obj\Debug\Polynomial.exe
+C:\Users\ander\Desktop\Lab3\Polynomial\obj\Debug\Polynomial.pdb
+C:\Users\ander\Desktop\Lab3\Polynomial\obj\Debug\Polynomial.csprojResolveAssemblyReference.cache

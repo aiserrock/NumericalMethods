@@ -1,0 +1,15 @@
+C:\Users\Evgeny\Desktop\IterationMethod\ZedGraphControlLibrary\bin\Debug\ZedGraphControlLibrary.dll
+C:\Users\Evgeny\Desktop\IterationMethod\ZedGraphControlLibrary\bin\Debug\ZedGraphControlLibrary.pdb
+C:\Users\Evgeny\Desktop\IterationMethod\ZedGraphControlLibrary\bin\Debug\ZedGraph.dll
+C:\Users\Evgeny\Desktop\IterationMethod\ZedGraphControlLibrary\obj\Debug\ZedGraphControlLibrary.ZGUserControl.resources
+C:\Users\Evgeny\Desktop\IterationMethod\ZedGraphControlLibrary\obj\Debug\ZedGraphControlLibrary.csproj.GenerateResource.Cache
+C:\Users\Evgeny\Desktop\IterationMethod\ZedGraphControlLibrary\obj\Debug\ZedGraphControlLibrary.dll
+C:\Users\Evgeny\Desktop\IterationMethod\ZedGraphControlLibrary\obj\Debug\ZedGraphControlLibrary.pdb
+C:\Users\Misha\Desktop\Парфенов\labs\IterationMethod\ZedGraphControlLibrary\bin\Debug\ZedGraphControlLibrary.dll
+C:\Users\Misha\Desktop\Парфенов\labs\IterationMethod\ZedGraphControlLibrary\bin\Debug\ZedGraphControlLibrary.pdb
+C:\Users\Misha\Desktop\Парфенов\labs\IterationMethod\ZedGraphControlLibrary\bin\Debug\ZedGraph.dll
+C:\Users\Misha\Desktop\Парфенов\labs\IterationMethod\ZedGraphControlLibrary\obj\Debug\ZedGraphControlLibrary.ZGUserControl.resources
+C:\Users\Misha\Desktop\Парфенов\labs\IterationMethod\ZedGraphControlLibrary\obj\Debug\ZedGraphControlLibrary.csproj.GenerateResource.Cache
+C:\Users\Misha\Desktop\Парфенов\labs\IterationMethod\ZedGraphControlLibrary\obj\Debug\ZedGraphControlLibrary.dll
+C:\Users\Misha\Desktop\Парфенов\labs\IterationMethod\ZedGraphControlLibrary\obj\Debug\ZedGraphControlLibrary.pdb
+C:\Users\Misha\Desktop\Парфенов\labs\IterationMethod\ZedGraphControlLibrary\obj\Debug\ZedGraphControlLibrary.csprojResolveAssemblyReference.cache

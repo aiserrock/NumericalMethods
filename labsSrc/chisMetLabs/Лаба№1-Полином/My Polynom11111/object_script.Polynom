@@ -1,0 +1,13 @@
+INPUT(
+./build/Debug/MinGW-Windows/main.o
+./build/Debug/MinGW-Windows/kontroller.o
+./build/Debug/MinGW-Windows/info.o
+./build/Debug/MinGW-Windows/vid.o
+./build/Debug/MinGW-Windows/modal.o
+./build/Debug/MinGW-Windows/grClass.o
+./build/Debug/MinGW-Windows/moc_grClass.o
+./build/Debug/MinGW-Windows/moc_kontroller.o
+./build/Debug/MinGW-Windows/moc_modal.o
+./build/Debug/MinGW-Windows/moc_info.o
+./build/Debug/MinGW-Windows/moc_vid.o
+);

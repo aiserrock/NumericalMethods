@@ -1,0 +1,33 @@
+﻿<Window x:Class="IterationMethod.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Метод итераций" Height="616.418" Width="922.388" WindowStartupLocation="CenterScreen">
+    <Grid Margin="10,0,2,0">
+        <WindowsFormsHost HorizontalAlignment="Left" Height="550" VerticalAlignment="Top" Width="683" Name="FormsHost" Margin="9,10,0,0" ChildChanged="FormsHost_ChildChanged"/>
+        <Label Content="β:" HorizontalAlignment="Left" Margin="755,277,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="betaTextBox" HorizontalAlignment="Left" Height="23" Margin="773,277,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="46"/>
+        <Label Content="γ:" HorizontalAlignment="Left" Margin="757,320,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="gammaTextBox" HorizontalAlignment="Left" Height="23" Margin="773,322,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="46"/>
+        <Label Content="A:" HorizontalAlignment="Left" Margin="742,412,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="aTextBox" HorizontalAlignment="Left" Height="23" Margin="760,414,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="46"/>
+        <Label Content="B:" HorizontalAlignment="Left" Margin="812,412,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="bTextBox" HorizontalAlignment="Left" Height="23" Margin="828,414,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="46"/>
+        <Label Content="C:" HorizontalAlignment="Left" Margin="742,447,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="cTextBox" HorizontalAlignment="Left" Height="23" Margin="760,449,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="46"/>
+        <Label Content="D:" HorizontalAlignment="Left" Margin="810,447,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="dTextBox" HorizontalAlignment="Left" Height="23" Margin="828,449,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="46"/>
+        <Label Content="Xo:" HorizontalAlignment="Left" Margin="737,39,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="xoTextBox" HorizontalAlignment="Left" Height="22" Margin="761,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="46"/>
+        <Label Content="m:" HorizontalAlignment="Left" Margin="732,137,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="mTextBox" HorizontalAlignment="Left" Height="24" Margin="754,139,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="46"/>
+        <Label Content="n:" HorizontalAlignment="Left" Margin="812,139,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.342,0.538"/>
+        <TextBox x:Name="nTextBox" HorizontalAlignment="Left" Height="22" Margin="830,141,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="46"/>
+        <Label Content="p:" HorizontalAlignment="Left" Margin="736,180,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="pComboBox" HorizontalAlignment="Left" Margin="754,184,0,0" VerticalAlignment="Top" Width="66"/>
+        <Button x:Name="buildButton" Content="Строить" HorizontalAlignment="Left" Margin="719,510,0,0" VerticalAlignment="Top" Width="169" Click="buildButton_Click" Height="50"/>
+        <GroupBox x:Name="Начальное_Xo__Действительное_" Header="Начальное значение Xo" HorizontalAlignment="Left" Margin="729,10,0,0" VerticalAlignment="Top" Height="77" Width="154"/>
+        <GroupBox Header="Параметры m,n,p" HorizontalAlignment="Left" Margin="729,109,0,0" VerticalAlignment="Top" Height="129" Width="154"/>
+        <GroupBox Header="Значения β, γ" HorizontalAlignment="Left" Margin="729,243,0,0" VerticalAlignment="Top" Height="122" Width="159"/>
+        <GroupBox Header="Размеры окна" HorizontalAlignment="Left" Margin="729,389,0,0" VerticalAlignment="Top" Height="89" Width="159"/>
+    </Grid>
+</Window>

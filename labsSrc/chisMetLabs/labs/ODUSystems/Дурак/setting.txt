@@ -1,0 +1,3 @@
+Language: ru ;
+Type of card: 1 ;
+Help: true ;

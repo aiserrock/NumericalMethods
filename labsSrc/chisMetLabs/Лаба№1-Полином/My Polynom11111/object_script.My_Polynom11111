@@ -1,0 +1,13 @@
+INPUT(
+./build/Debug/MinGW_Qt-Windows/grClass.o
+./build/Debug/MinGW_Qt-Windows/info.o
+./build/Debug/MinGW_Qt-Windows/kontroller.o
+./build/Debug/MinGW_Qt-Windows/main.o
+./build/Debug/MinGW_Qt-Windows/modal.o
+./build/Debug/MinGW_Qt-Windows/vid.o
+./build/Debug/MinGW_Qt-Windows/moc_grClass.o
+./build/Debug/MinGW_Qt-Windows/moc_info.o
+./build/Debug/MinGW_Qt-Windows/moc_kontroller.o
+./build/Debug/MinGW_Qt-Windows/moc_modal.o
+./build/Debug/MinGW_Qt-Windows/moc_vid.o
+);

@@ -1,0 +1,15 @@
+c:\users\пользователь\documents\visual studio 2010\Projects\Project4\Project4\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\пользователь\documents\visual studio 2010\Projects\Project4\Project4\bin\Debug\Project4.exe
+c:\users\пользователь\documents\visual studio 2010\Projects\Project4\Project4\bin\Debug\Project4.pdb
+c:\users\пользователь\documents\visual studio 2010\Projects\Project4\Project4\obj\x86\Debug\Project4.exe
+c:\users\пользователь\documents\visual studio 2010\Projects\Project4\Project4\obj\x86\Debug\Project4.pdb
+Q:\Project4\Project4\obj\x86\Debug\Project4.exe
+Q:\Project4\Project4\obj\x86\Debug\Project4.pdb
+Q:\Project4\Project4\bin\Debug\Project4.exe
+Q:\Project4\Project4\bin\Debug\Project4.pdb
+Q:\Project4\Project4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project4\Project4\obj\x86\Debug\Project4.exe
+D:\Project4\Project4\obj\x86\Debug\Project4.pdb
+D:\Project4\Project4\bin\Debug\Project4.exe
+D:\Project4\Project4\bin\Debug\Project4.pdb
+D:\Project4\Project4\obj\x86\Debug\ResolveAssemblyReference.cache

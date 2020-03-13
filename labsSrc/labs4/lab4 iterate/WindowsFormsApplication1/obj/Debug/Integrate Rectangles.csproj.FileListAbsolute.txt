@@ -1,0 +1,39 @@
+C:\Users\ПК\Documents\Visual Studio 2012\Projects\integrate(rectangles)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ПК\Documents\Visual Studio 2012\Projects\integrate(rectangles)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ПК\Documents\Visual Studio 2012\Projects\integrate(rectangles)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\ПК\Documents\Visual Studio 2012\Projects\integrate(rectangles)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ПК\Documents\Visual Studio 2012\Projects\integrate(rectangles)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ПК\Documents\Visual Studio 2012\Projects\integrate(rectangles)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ПК\Documents\Visual Studio 2012\Projects\integrate(rectangles)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ПК\Documents\Visual Studio 2012\Projects\integrate(rectangles)\WindowsFormsApplication1\obj\Debug\Integrate Rectangles.csproj.GenerateResource.Cache
+C:\Users\ПК\Documents\Visual Studio 2012\Projects\integrate(rectangles)\WindowsFormsApplication1\obj\Debug\Integrate Rectangles.csprojResolveAssemblyReference.cache
+E:\НА НОВУЮ ВИНДУ\ВУЗ\Численные методы\лабы\lab 2 integrate(rectangles)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\НА НОВУЮ ВИНДУ\ВУЗ\Численные методы\лабы\lab 2 integrate(rectangles)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\НА НОВУЮ ВИНДУ\ВУЗ\Численные методы\лабы\lab 2 integrate(rectangles)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\lab 2 integrate(rectangles)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\lab 2 integrate(rectangles)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\lab 2 integrate(rectangles)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\lab 2 integrate(rectangles)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\lab 2 integrate(rectangles)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\lab 2 integrate(rectangles)\WindowsFormsApplication1\obj\Debug\Integrate Rectangles.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\lab 2 integrate(rectangles)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\lab 2 integrate(rectangles)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\lab 2 integrate(rectangles)\WindowsFormsApplication1\obj\Debug\Integrate Rectangles.csproj.GenerateResource.Cache
+C:\Users\Алексей\Desktop\lab 2 integrate(rectangles)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Алексей\Desktop\lab 2 integrate(rectangles)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Алексей\Desktop\lab 2 integrate(rectangles)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Алексей\Desktop\lab 2 integrate(rectangles)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Алексей\Desktop\lab 2 integrate(rectangles)\WindowsFormsApplication1\obj\Debug\Integrate Rectangles.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\lab 2 integrate(rectangles)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Алексей\Desktop\lab 2 integrate(rectangles)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Алексей\Desktop\lab 2 integrate(rectangles)\WindowsFormsApplication1\obj\Debug\Integrate Rectangles.csproj.GenerateResource.Cache
+C:\Users\Алексей\Desktop\lab 2 integrate(rectangles)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Алексей\Desktop\lab4 iteration\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Алексей\Desktop\lab4 iteration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Алексей\Desktop\lab4 iteration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Алексей\Desktop\lab4 iteration\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Алексей\Desktop\lab4 iteration\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Алексей\Desktop\lab4 iteration\WindowsFormsApplication1\obj\Debug\Integrate Rectangles.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\lab4 iteration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Алексей\Desktop\lab4 iteration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Алексей\Desktop\lab4 iteration\WindowsFormsApplication1\obj\Debug\Integrate Rectangles.csproj.GenerateResource.Cache

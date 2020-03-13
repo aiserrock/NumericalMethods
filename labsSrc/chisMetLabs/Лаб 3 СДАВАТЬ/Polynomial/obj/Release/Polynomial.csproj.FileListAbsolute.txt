@@ -1,0 +1,5 @@
+D:\Lab3\Polynomial\bin\Release\Polynomial.exe.config
+D:\Lab3\Polynomial\obj\Release\Polynomial.csprojResolveAssemblyReference.cache
+D:\Lab3\Polynomial\obj\Release\Polynomial.MainWindow.resources
+D:\Lab3\Polynomial\obj\Release\Polynomial.Properties.Resources.resources
+D:\Lab3\Polynomial\obj\Release\Polynomial.csproj.GenerateResource.Cache
