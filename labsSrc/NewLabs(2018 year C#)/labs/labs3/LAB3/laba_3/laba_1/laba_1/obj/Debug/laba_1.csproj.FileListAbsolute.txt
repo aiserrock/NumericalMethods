@@ -1,0 +1,86 @@
+c:\users\туся\documents\visual studio 2012\Projects\laba_1\laba_1\bin\Debug\laba_1.exe.config
+c:\users\туся\documents\visual studio 2012\Projects\laba_1\laba_1\bin\Debug\laba_1.exe
+c:\users\туся\documents\visual studio 2012\Projects\laba_1\laba_1\bin\Debug\laba_1.pdb
+c:\users\туся\documents\visual studio 2012\Projects\laba_1\laba_1\bin\Debug\ZedGraph.DLL
+c:\users\туся\documents\visual studio 2012\Projects\laba_1\laba_1\obj\Debug\laba_1.csprojResolveAssemblyReference.cache
+c:\users\туся\documents\visual studio 2012\Projects\laba_1\laba_1\obj\Debug\laba_1.Form1.resources
+c:\users\туся\documents\visual studio 2012\Projects\laba_1\laba_1\obj\Debug\laba_1.Properties.Resources.resources
+c:\users\туся\documents\visual studio 2012\Projects\laba_1\laba_1\obj\Debug\laba_1.csproj.GenerateResource.Cache
+c:\users\туся\documents\visual studio 2012\Projects\laba_1\laba_1\obj\Debug\laba_1.exe
+c:\users\туся\documents\visual studio 2012\Projects\laba_1\laba_1\obj\Debug\laba_1.pdb
+C:\Users\Arekusandoru\Desktop\laba_1\laba_1\laba_1\bin\Debug\laba_1.exe.config
+C:\Users\Arekusandoru\Desktop\laba_1\laba_1\laba_1\obj\Debug\laba_1.exe
+C:\Users\Arekusandoru\Desktop\laba_1\laba_1\laba_1\obj\Debug\laba_1.pdb
+C:\Users\Arekusandoru\Desktop\laba_1\laba_1\laba_1\bin\Debug\laba_1.exe
+C:\Users\Arekusandoru\Desktop\laba_1\laba_1\laba_1\bin\Debug\laba_1.pdb
+C:\Users\Arekusandoru\Desktop\laba_1\laba_1\laba_1\obj\Debug\laba_1.csprojResolveAssemblyReference.cache
+C:\Users\Arekusandoru\Desktop\laba_1\laba_1\laba_1\obj\Debug\laba_1.Form1.resources
+C:\Users\Arekusandoru\Desktop\laba_1\laba_1\laba_1\obj\Debug\laba_1.Properties.Resources.resources
+C:\Users\Arekusandoru\Desktop\laba_1\laba_1\laba_1\obj\Debug\laba_1.csproj.GenerateResource.Cache
+C:\Users\Туся\Desktop\laba_1\laba_1\laba_1\bin\Debug\laba_1.exe.config
+C:\Users\Туся\Desktop\laba_1\laba_1\laba_1\obj\Debug\laba_1.exe
+C:\Users\Туся\Desktop\laba_1\laba_1\laba_1\obj\Debug\laba_1.pdb
+C:\Users\Туся\Desktop\laba_1\laba_1\laba_1\bin\Debug\laba_1.exe
+C:\Users\Туся\Desktop\laba_1\laba_1\laba_1\bin\Debug\laba_1.pdb
+C:\Users\Туся\Desktop\laba_1\laba_1\laba_1\bin\Debug\ZedGraph.DLL
+C:\Users\Туся\Desktop\laba_1\laba_1\laba_1\obj\Debug\laba_1.csprojResolveAssemblyReference.cache
+C:\Users\Туся\Desktop\laba_1\laba_1\laba_1\obj\Debug\laba_1.Form1.resources
+C:\Users\Туся\Desktop\laba_1\laba_1\laba_1\obj\Debug\laba_1.Properties.Resources.resources
+C:\Users\Туся\Desktop\laba_1\laba_1\laba_1\obj\Debug\laba_1.csproj.GenerateResource.Cache
+C:\Users\Туся\Desktop\программы\laba_1\laba_1\laba_1\bin\Debug\laba_1.exe.config
+C:\Users\Туся\Desktop\программы\laba_1\laba_1\laba_1\obj\Debug\laba_1.exe
+C:\Users\Туся\Desktop\программы\laba_1\laba_1\laba_1\obj\Debug\laba_1.pdb
+C:\Users\Туся\Desktop\программы\laba_1\laba_1\laba_1\bin\Debug\laba_1.exe
+C:\Users\Туся\Desktop\программы\laba_1\laba_1\laba_1\bin\Debug\laba_1.pdb
+C:\Users\Туся\Desktop\программы\laba_1\laba_1\laba_1\bin\Debug\ZedGraph.DLL
+C:\Users\Туся\Desktop\программы\laba_1\laba_1\laba_1\obj\Debug\laba_1.csprojResolveAssemblyReference.cache
+C:\Users\Туся\Desktop\программы\laba_1\laba_1\laba_1\obj\Debug\laba_1.Form1.resources
+C:\Users\Туся\Desktop\программы\laba_1\laba_1\laba_1\obj\Debug\laba_1.Properties.Resources.resources
+C:\Users\Туся\Desktop\программы\laba_1\laba_1\laba_1\obj\Debug\laba_1.csproj.GenerateResource.Cache
+C:\Users\Туся\Desktop\программы\laba_2\laba_1\laba_1\bin\Debug\laba_1.exe.config
+C:\Users\Туся\Desktop\программы\laba_2\laba_1\laba_1\bin\Debug\laba_1.exe
+C:\Users\Туся\Desktop\программы\laba_2\laba_1\laba_1\bin\Debug\laba_1.pdb
+C:\Users\Туся\Desktop\программы\laba_2\laba_1\laba_1\bin\Debug\ZedGraph.DLL
+C:\Users\Туся\Desktop\программы\laba_2\laba_1\laba_1\obj\Debug\laba_1.Form1.resources
+C:\Users\Туся\Desktop\программы\laba_2\laba_1\laba_1\obj\Debug\laba_1.Properties.Resources.resources
+C:\Users\Туся\Desktop\программы\laba_2\laba_1\laba_1\obj\Debug\laba_1.csproj.GenerateResource.Cache
+C:\Users\Туся\Desktop\программы\laba_2\laba_1\laba_1\obj\Debug\laba_1.exe
+C:\Users\Туся\Desktop\программы\laba_2\laba_1\laba_1\obj\Debug\laba_1.pdb
+C:\Users\Туся\Desktop\программы\laba_2\laba_1\laba_1\obj\Debug\laba_1.csprojResolveAssemblyReference.cache
+C:\Users\Туся\Desktop\программы\laba_3\laba_1\laba_1\obj\Debug\laba_1.Form1.resources
+C:\Users\Туся\Desktop\программы\laba_3\laba_1\laba_1\obj\Debug\laba_1.Properties.Resources.resources
+C:\Users\Туся\Desktop\программы\laba_3\laba_1\laba_1\obj\Debug\laba_1.csproj.GenerateResource.Cache
+C:\Users\Туся\Desktop\программы\laba_3\laba_1\laba_1\bin\Debug\laba_1.exe.config
+C:\Users\Туся\Desktop\программы\laba_3\laba_1\laba_1\bin\Debug\laba_1.exe
+C:\Users\Туся\Desktop\программы\laba_3\laba_1\laba_1\bin\Debug\laba_1.pdb
+C:\Users\Туся\Desktop\программы\laba_3\laba_1\laba_1\bin\Debug\ZedGraph.DLL
+C:\Users\Туся\Desktop\программы\laba_3\laba_1\laba_1\obj\Debug\laba_1.exe
+C:\Users\Туся\Desktop\программы\laba_3\laba_1\laba_1\obj\Debug\laba_1.pdb
+O:\Visual Studio\Program\laba_3\laba_1\laba_1\bin\Debug\laba_1.exe.config
+O:\Visual Studio\Program\laba_3\laba_1\laba_1\bin\Debug\laba_1.exe
+O:\Visual Studio\Program\laba_3\laba_1\laba_1\bin\Debug\laba_1.pdb
+O:\Visual Studio\Program\laba_3\laba_1\laba_1\obj\Debug\laba_1.csprojResolveAssemblyReference.cache
+O:\Visual Studio\Program\laba_3\laba_1\laba_1\obj\Debug\laba_1.Form1.resources
+O:\Visual Studio\Program\laba_3\laba_1\laba_1\obj\Debug\laba_1.Properties.Resources.resources
+O:\Visual Studio\Program\laba_3\laba_1\laba_1\obj\Debug\laba_1.csproj.GenerateResource.Cache
+O:\Visual Studio\Program\laba_3\laba_1\laba_1\obj\Debug\laba_1.exe
+O:\Visual Studio\Program\laba_3\laba_1\laba_1\obj\Debug\laba_1.pdb
+N:\Visual Studio\Parfenov_Labs\LAB3\laba_3\laba_1\laba_1\bin\Debug\laba_1.exe.config
+N:\Visual Studio\Parfenov_Labs\LAB3\laba_3\laba_1\laba_1\obj\Debug\laba_1.exe
+N:\Visual Studio\Parfenov_Labs\LAB3\laba_3\laba_1\laba_1\obj\Debug\laba_1.pdb
+N:\Visual Studio\Parfenov_Labs\LAB3\laba_3\laba_1\laba_1\bin\Debug\laba_1.exe
+N:\Visual Studio\Parfenov_Labs\LAB3\laba_3\laba_1\laba_1\bin\Debug\laba_1.pdb
+N:\Visual Studio\Parfenov_Labs\LAB3\laba_3\laba_1\laba_1\obj\Debug\laba_1.csprojResolveAssemblyReference.cache
+N:\Visual Studio\Parfenov_Labs\LAB3\laba_3\laba_1\laba_1\obj\Debug\laba_1.Form1.resources
+N:\Visual Studio\Parfenov_Labs\LAB3\laba_3\laba_1\laba_1\obj\Debug\laba_1.Properties.Resources.resources
+N:\Visual Studio\Parfenov_Labs\LAB3\laba_3\laba_1\laba_1\obj\Debug\laba_1.csproj.GenerateResource.Cache
+C:\Users\chern\Desktop\Парфенов\Parfenov\LAB3\laba_3\laba_1\laba_1\bin\Debug\laba_1.exe.config
+C:\Users\chern\Desktop\Парфенов\Parfenov\LAB3\laba_3\laba_1\laba_1\bin\Debug\laba_1.exe
+C:\Users\chern\Desktop\Парфенов\Parfenov\LAB3\laba_3\laba_1\laba_1\bin\Debug\laba_1.pdb
+C:\Users\chern\Desktop\Парфенов\Parfenov\LAB3\laba_3\laba_1\laba_1\obj\Debug\laba_1.csprojAssemblyReference.cache
+C:\Users\chern\Desktop\Парфенов\Parfenov\LAB3\laba_3\laba_1\laba_1\obj\Debug\laba_1.Form1.resources
+C:\Users\chern\Desktop\Парфенов\Parfenov\LAB3\laba_3\laba_1\laba_1\obj\Debug\laba_1.Properties.Resources.resources
+C:\Users\chern\Desktop\Парфенов\Parfenov\LAB3\laba_3\laba_1\laba_1\obj\Debug\laba_1.csproj.GenerateResource.cache
+C:\Users\chern\Desktop\Парфенов\Parfenov\LAB3\laba_3\laba_1\laba_1\obj\Debug\laba_1.csproj.CopyComplete
+C:\Users\chern\Desktop\Парфенов\Parfenov\LAB3\laba_3\laba_1\laba_1\obj\Debug\laba_1.exe
+C:\Users\chern\Desktop\Парфенов\Parfenov\LAB3\laba_3\laba_1\laba_1\obj\Debug\laba_1.pdb
